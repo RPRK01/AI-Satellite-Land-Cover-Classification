@@ -7,7 +7,7 @@ IMG_SIZE = 160
 BATCH_SIZE = 8
 EPOCHS = 5
 SAMPLES_PER_CLASS = 3
-DATASET_PATH = "E:\KANISHKA\PROJECT\dataset"
+DATASET_PATH = "dataset"
 
 COLORS = {
     "urban": "red",
@@ -83,3 +83,4 @@ plt.suptitle(
 )
 plt.tight_layout()
 plt.show()
+
