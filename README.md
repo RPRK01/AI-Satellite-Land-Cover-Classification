@@ -56,4 +56,4 @@ The visualization clearly demonstrates the model’s ability to distinguish betw
 ## ⚙️ How to Run
 ```bash
 pip install -r requirements.txt
-python land_cover_classification.py
+python Land_Classification.py
