@@ -1,0 +1,1 @@
+# AI-Satellite-Land-Cover-Classification
